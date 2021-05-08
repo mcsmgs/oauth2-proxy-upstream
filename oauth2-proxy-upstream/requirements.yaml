@@ -1,0 +1,4 @@
+dependencies:
+- name: oauth2-proxy
+  version: 3.2.10
+  repository: https://oauth2-proxy.github.io/manifests
